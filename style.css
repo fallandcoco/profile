@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Titillium+Web:wght@200;400&display=swap');
+@import url(css/button.css);
+@import url(css/container.css);
+@import url(css/card.css);
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #264653;
+}
+
+.img-circle {
+    border-radius: 10px;
+    width: 200px;
+}
+
+p {
+    font-family: 'Titillium Web' ;
+    font-weight: 200;
+
+}
+
+h2 {
+    color: #6a8ce9;
+    font-size: 20px;
+}
+
+.social_links {
+    font-family: 'Titillium Web';
+    text-decoration: none;
+    color: rgb(230, 230, 230);
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.social_links:hover {
+    color: #4752e9;
+}
+
+ul {
+    padding: 0;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
